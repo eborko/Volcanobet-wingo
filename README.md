@@ -2,7 +2,7 @@
 
 # Volcanobet WINGO
 Well known betting game in Montenegro.
-This is NOT an official project for Volcanobet WINGO.
+This is NOT an official project for real Volcanobet WINGO.
 
 This project is creted only for having fun by playing game and learning Software Engeneering.
 This repository is made only to serve as a Windows Development in C++ skill proof in my CV.
